@@ -11,3 +11,8 @@ console.log(valueinNum);
 // "" -> 0
 // null -> 0
 // undefined -> NAN
+
+//console.log(2**3) is 2 is to power 3.
+
+let str1 = "hello"
+
